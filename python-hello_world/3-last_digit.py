@@ -9,4 +9,4 @@ if number > 5:
 elif last == 0:
     print('last digit of {} is {} and is 0' .format(number, last))
 else:
-print('last digit of {} is {} and is less than 6 and not 0' .format(number, last))
+    print('last digit of {} is {} and is less than 6 and not 0' .format(number, last))
